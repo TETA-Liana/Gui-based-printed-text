@@ -1,0 +1,27 @@
+Ba new 1 README ° new 2 Untitled-2 challenge (1).em| challenge.er X +
+
+File Edit View
+
+GI6kCZPDb51qfTCqR+i2NGS72RKsIbjeCcVqyX5A310ZXR2R8Hp700NF7gIWSiEDZAIE
+W7pMR+UVMM43RgCMhITLE30eAACtg9XUWNs@vuh7SyaJ9ut3crzzHprBLisZfDwvv4me
+d7kkjrg4X12/x1rqAQU8s1Bj+C3u1xT4Tg2RAm4UFR3P1/aRdakS9c/41X1DWPDesbDG
+pTSg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+h=to: subject: message-id: date: from: in-reply-to: references :mime-version
+:dkim-signature;
+bh=T@CpiSRr2TTxWxHIxylidkF7bGR5pZmhDuR@65zhwwM=;
+Fh=BtX15V1Ab1tOQvhtxG7X6/EVIUW2Z72K8HVY6pLULIc=;
+b=bctFcpJCPUInVfNvgoG7K/rHBWJ 8aGXMmEGZZdirwqAD1Gju2j3afZZfo8v7jkZuwT
+pPNw/+bcTN1+/pYdChas@3F6S7621MuRIwMfd4wqRmYMnqujCSmawGk+8voKOWK8345h
+OjA/81rpZ+WVsITUrXIxJs+G11g1ZqjIDB1FF/pYOYqf2Dbn/@Zz55rj2xX+i0hSNsVp
+GLG2fyFdcFpys7Jz6bG68IVq1Rm@BVup1KDkYESCaJAP2a0180EijfVgV/kDF2I1SyEfF
+IWWkhnQtkutn7Vct52zT/tINuGwx2U1ETYmgurpOJYhgsVc@KH3/qR3aPftSMWrUDHGb
+Y+0Q==
+ARC-Authentication-Results: i=1; mx.google.com;
+dkim=pass header.i=@gmail.com header.s=20230601 header .b=RZHQ@bNG;
+spf=pass (google.com: domain of usanasequeen@gmail.com designates 209.85.220.41 as permitted sender)
+smtp.mailfrom=usanasequeen@gmail.com;
+dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header. from=gmail.com
+Return-Path: <usanasequeen@gmail.com>
+Received: from mail- sor- 41. -google. com (mail-sor-f41.google.com. (209. 85.220.41])
+
